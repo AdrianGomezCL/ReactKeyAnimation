@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/2865577/225799210-58d20371-1a79-4391-9c90-30f033cfd242.png)
+
 # React Key Animation
 
 This project is a React application that displays animated keys on the screen whenever a key is pressed on the keyboard.
